@@ -5,3 +5,8 @@ function someFooFunc(a) {
 function someBarFunc(b) {
     return b;
 }
+
+export {
+    someFooFunc,
+    someBarFunc
+}
